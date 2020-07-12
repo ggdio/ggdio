@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi Github 👋
+
+- 🔭 I’m currently working on a very interesting Big Data project for a great company
+- 🌱 I’m currently learning car mechanics and eletronic injection
+- 👯 I’m looking to collaborate on open source projects
+- 🤔 I’m looking for help with some personal projects
+- 💬 Ask me about JAVA
+- 📫 How to reach me: ggrdio@gmail.com
+- ⚡ Fun fact: Sometimes I dream with the technical problem solution
 
 <!--
 **ggdio/ggdio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
